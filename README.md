@@ -3,7 +3,7 @@
 ref https://github.com/abyssss52/PFLD_ncnn_test
 
 基本参考了上面的c艹部分代码
-玉兰：https://wx1.sinaimg.cn/mw690/007Bgb15ly1gmnnh9wh6qj30zi0ikdhu.jpg
+玉兰：https://wx1.sinaimg.cn/mw1024/007Bgb15ly1gmnnh9wh6qj30zi0ikdhu.jpg
 ncnn用的2020年4月或以前的版本，未来版本应该也可以
 OpenCV：410或以上
 vulkan：1.2.162.1
