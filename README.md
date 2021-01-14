@@ -1,6 +1,7 @@
 # PFLD-NCNN-PC-Demo
 
-ref https://github.com/abyssss52/PFLD_ncnn_test
+ref:https://github.com/abyssss52/PFLD_ncnn_test  
+ref:https://www.cnblogs.com/chucklu/p/10487659.html  
 
 基本参考了上面的c艹部分代码  
 玉兰：https://wx1.sinaimg.cn/mw1024/007Bgb15ly1gmnnh9wh6qj30zi0ikdhu.jpg  
@@ -9,7 +10,7 @@ OpenCV：410或以上
 vulkan：1.2.162.1  
 首先安装vulkan，然后编译ncnn，指定vulkan路径编译以支持gpu，ncnn用的gpu指的就是vulkan的gpu加速框架  
 然后编译这个，vs引用(include,lib)需要同时引用opencv、vulkan、ncnn的，缺一不可！  
-\\
+  
  ```cpp
 #include <stdio.h>
 //#include <time.h>
